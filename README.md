@@ -13,3 +13,7 @@ and next time it will recognize your face
 ******************************************************
 to build the source  code 
 on windows  i have used  visual studio 2012 
+
+
+
+![Eigen Faces](https://raw.githubusercontent.com/rishabhsixfeet/FaceRecognizer/master/out_eigenfaces.bmp)
